@@ -1,0 +1,8 @@
+D001|tala|derma|Sun,Mon,Wed|8:00|11:00
+D002|yasmeen|neurology|Mon,Wed,Thu|9:00|3:00
+D003|hala|neurology|Mon,Wed,Tue|28:09|20:10
+D004|dfg|df|Sun,Mon,Tue|10:00|13:00
+D005|kjhg|kjhgf|Sun,Mon,Tue|07:00|12:00
+D006|kjhgf|kjhg|Sun,Mon,Tue|10:00|20:00
+D007|isow|duidh|Sun,Mon,Tue|9:00|15:00
+D008|leen|sjddj|Sun,Tue,Thu|8:00|14:00
